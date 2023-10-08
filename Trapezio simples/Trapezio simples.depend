@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663453567 source:d:\steffany\cálculo numérico\trabalhos\trapezio simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

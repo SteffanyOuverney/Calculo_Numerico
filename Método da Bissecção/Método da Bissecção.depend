@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659302554 source:d:\steffany\cálculo numérico\método da bissecção\main.c
+	<stdio.h>
+	<math.h>
+
+1661716797 source:d:\steffany\cálculo numérico\trabalhos\método da bissecção\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1671140220 source:d:\steffany\cálculo numérico\hermes\trabalhos\método da bissecção\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

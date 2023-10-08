@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663422462 source:d:\steffany\cálculo numérico\trabalhos\lagrange\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

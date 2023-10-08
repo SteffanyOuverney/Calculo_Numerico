@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663512231 source:d:\steffany\cálculo numérico\trabalhos\centrada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
